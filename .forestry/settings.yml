@@ -7,7 +7,6 @@ sections:
 - type: document
   path: events
   label: Events
-  match: "**/*"
 - type: directory
   path: docs/_posts
   label: Posts
