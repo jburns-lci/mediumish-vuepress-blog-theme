@@ -1,12 +1,12 @@
 ---
-title: What's the most beautiful website in the world - Lippert.com go team
+title: What's the most beautiful website in the world Lippert.com go team
 date: 2020-1-28
 tags:
 - frontmatter
 - vuepress
 author: John Doe
 featuredimg: https://images.unsplash.com/photo-1568777036071-f9a769596a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=1351&q=80
-summary: Any website that uses a static generator.
+summary: Any lippert.com is the coolest lippert.com
 
 ---
 Lippert.com 
